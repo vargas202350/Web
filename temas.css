@@ -1,0 +1,47 @@
+.contenedor{
+    width: 100%;
+    height: 1400px;
+    background-color: aquamarine;
+}
+.encabezado{
+width: 100%;
+height: 150px;
+background-color: rgb(152, 11, 253);
+}
+
+.menu{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(118, 235, 71);
+}
+
+.contenedor2{
+    display: flex;
+    width: 100%;
+    height: 1200px;
+    background-color: rgb(252, 19, 19);
+}
+
+.izquierda{
+    width: 20%;
+    height: 1200px;
+    background-color: rgb(55, 13, 243);
+}
+
+.centro{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 60%;
+    height: 1200px;
+    background-color: rgb(0, 0, 0);
+}
+
+.derecha{
+    width: 20%;
+    height: 1200px;
+    background-color: rgb(12, 20, 253);
+}
+
+
+
